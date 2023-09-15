@@ -1,0 +1,3 @@
+# escola
+
+readme de exemplo
